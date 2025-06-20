@@ -7,3 +7,7 @@
 - VideoCapture
 - Draw lines, texts and...
 - Face detection
+
+## Github profile
+- [Github](https://github.com/normurodoff)
+  - [OpenCV Basics](https://github.com/normurodoff/OpenCV-Basics)
