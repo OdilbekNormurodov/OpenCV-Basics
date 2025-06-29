@@ -9,5 +9,5 @@
 - Face detection
 
 ## Github profile
-- [Github](https://github.com/normurodoff)
-  - [OpenCV Basics](https://github.com/normurodoff/OpenCV-Basics)
+- [Github](https://github.com/OdilbekNormurodov)
+  - [OpenCV Basics](https://github.com/OdilbekNormurodov/OpenCV-Basics)
